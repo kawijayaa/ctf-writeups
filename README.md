@@ -11,5 +11,5 @@ A place for my writeups throughout my CTF journey. Mostly will write about foren
 ~~I'm (probably) not gonna add writeups before 2024, since most of the writeups I made for them are pretty shit xD~~
 
 {% embed url="https://ctftime.org/user/147526" %}
-CTFtime Account
-{% endembed %}
+
+{% embed url="https://discordapp.com/users/243690464795033601" fullWidth="false" %}
